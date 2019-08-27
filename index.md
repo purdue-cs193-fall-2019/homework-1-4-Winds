@@ -1,6 +1,10 @@
-# I like ice cream
+# David Wu's First CS193 Homework
 
-
+- Yo TA's are chill
+- Riley ur hot
+- Learning new things
+- I know some ppl
+- Easy class
 
 ## Welcome to GitHub Pages
 
