@@ -6,17 +6,38 @@
 - I know some ppl
 - Easy class
 
-\n
-\n
-\n
-\n
-\n
-
-
-
-
-
-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
 
 
 ## Welcome to GitHub Pages
